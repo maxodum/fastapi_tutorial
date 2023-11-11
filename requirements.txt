@@ -1,4 +1,4 @@
-﻿annotated-types
+﻿annotated-types==0.6.0
 anyio==3.7.1
 fastapi==0.104.1
 idna==3.4
